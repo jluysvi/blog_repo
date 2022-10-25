@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cobusuys.com/tags/first/</loc>
+    <loc>https://cobusuys.netlify.app/tags/first/</loc>
     <lastmod>2022-10-25T16:31:52+02:00</lastmod>
   </url><url>
-    <loc>https://cobusuys.com/posts/firstpost/</loc>
+    <loc>https://cobusuys.netlify.app/posts/firstpost/</loc>
     <lastmod>2022-10-25T16:31:52+02:00</lastmod>
   </url><url>
-    <loc>https://cobusuys.com/posts/</loc>
+    <loc>https://cobusuys.netlify.app/posts/</loc>
     <lastmod>2022-10-25T16:31:52+02:00</lastmod>
   </url><url>
-    <loc>https://cobusuys.com/tags/</loc>
+    <loc>https://cobusuys.netlify.app/tags/</loc>
     <lastmod>2022-10-25T16:31:52+02:00</lastmod>
   </url><url>
-    <loc>https://cobusuys.com/</loc>
+    <loc>https://cobusuys.netlify.app/</loc>
     <lastmod>2022-10-25T16:16:46+02:00</lastmod>
   </url><url>
-    <loc>https://cobusuys.com/archives/</loc>
+    <loc>https://cobusuys.netlify.app/archives/</loc>
   </url><url>
-    <loc>https://cobusuys.com/categories/</loc>
+    <loc>https://cobusuys.netlify.app/categories/</loc>
   </url>
 </urlset>

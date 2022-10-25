@@ -12,7 +12,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
 
 cover:
     image: "<image path/url>" # image path/url

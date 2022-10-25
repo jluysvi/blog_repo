@@ -1,4 +1,4 @@
-baseURL: "https://cobusuys.com/"
+baseURL: "https://cobusuys.netlify.app"
 title: Cobus Uys' Blog
 paginate: 5
 theme: PaperMod

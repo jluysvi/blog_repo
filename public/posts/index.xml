@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Cobus Uys&#39; Blog</title>
-    <link>https://cobusuys.com/posts/</link>
+    <link>https://cobusuys.netlify.app/posts/</link>
     <description>Recent content in Posts on Cobus Uys&#39; Blog</description>
     <image>
-      <url>https://cobusuys.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://cobusuys.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cobusuys.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cobusuys.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Oct 2022 16:31:52 +0200</lastBuildDate><atom:link href="https://cobusuys.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 16:31:52 +0200</lastBuildDate><atom:link href="https://cobusuys.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://cobusuys.com/posts/firstpost/</link>
+      <link>https://cobusuys.netlify.app/posts/firstpost/</link>
       <pubDate>Tue, 25 Oct 2022 16:31:52 +0200</pubDate>
       
-      <guid>https://cobusuys.com/posts/firstpost/</guid>
+      <guid>https://cobusuys.netlify.app/posts/firstpost/</guid>
       <description>Desc Text.</description>
     </item>
     
