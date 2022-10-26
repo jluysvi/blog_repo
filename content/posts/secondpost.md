@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Secondpost"
+date: 2022-10-26T11:44:59+02:00
 # weight: 1
 # aliases: ["/first"]
-tags: [""]
+tags: ["first"]
 author: "Cobus Uys"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -25,9 +25,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "static/images/citytraffic.jpg" # image path/url
+    alt: "city traffic" # alt text
+    caption: "City Traffic" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -35,3 +35,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+## Testing how images look
+This is just a test to see how images display.

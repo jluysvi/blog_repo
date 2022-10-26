@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Business, Marketing, Advertising, Real-Estate, Property]
   author: Cobus Uys
   # author: ["Me", "You"] # multiple authors
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/pfp_bg.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -52,22 +52,22 @@ params:
     safari_pinned_tab: "images/apple-touch-icon.png"
 
   label:
-    text: "Home"
+    text: "Cobus Uys' Blog"
     icon: images/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
-    title: Cobus Uys' Blog
-    subtitle: "This is subtitle"
+    enabled: false # needs to be explicitly set
+    title: Welcome to my blog!🤝
+    subtitle: "I'm learning how to run a business and how to do effective marketing, so I thought I might as as well document the process."
     imageUrl: "images/pfp_bg.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile picture
     buttons:
       - name: Archive
-        url: /archive/
+        url: /archives/
       - name: Search
         url: /search/
 
@@ -86,7 +86,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-PSNTC0MPCR"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -114,22 +114,19 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: archive
-      name: archive
-      url: /archive/
-      weight: 30
     - identifier: search
-      name: search
+      name: Search
       url: /search/
-      weight: 40
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
