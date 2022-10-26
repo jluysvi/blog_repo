@@ -45,31 +45,31 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "static/images/favicon.ico"
-    favicon16x16: "static/images/favicon-16x16.png"
-    favicon32x32: "static/images/favicon-32x32.png"
-    apple_touch_icon: "static/images/apple-touch-icon.png"
-    safari_pinned_tab: "static/images/apple-touch-icon.png"
+    favicon: "images/favicon.ico"
+    favicon16x16: "images/favicon-16x16.png"
+    favicon32x32: "images/favicon-32x32.png"
+    apple_touch_icon: "images/apple-touch-icon.png"
+    safari_pinned_tab: "images/apple-touch-icon.png"
 
   label:
     text: "Home"
-    icon: static/images/apple-touch-icon.png
+    icon: images/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Cobus Uys' Blog
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "images/pfp_bg.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: profile picture
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Archive
+        url: /archive/
+      - name: Search
+        url: /search/
 
   # home-info mode
   homeInfoParams:
@@ -77,16 +77,16 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cobus-uys/"
+    - name: tiktok
+      url: "https://www.tiktok.com/@cobusuys"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCC6fGWswEHPBjfnH_n0dnFQ"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-PSNTC0MPCR"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
