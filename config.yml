@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Welcome to my blog!🤝
+    title: Welcome to my blog!
     subtitle: "I'm learning how to run a business and how to do effective marketing, so I thought I might as as well document the process."
     imageUrl: "images/pfp_bg.png"
     imageWidth: 120
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi there, welcome to my blog! 🍻"
+    Content: Not so long ago I started my own marketing agency, but, I realized that if I wanted to really stand out and provide a service that no-one else could, I would have to learn. A LOT. This blog is basically a distillation of everything I have learned. It might seem a bit empty now, but it will start to fill in very soon, I promise. If you are looking for something specific, check out the tags or go to the search page, otherwise you are welcome to just go to the archives and pick something random. Enjoy! 😉
 
   socialIcons:
     - name: linkedin
