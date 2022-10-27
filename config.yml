@@ -83,6 +83,8 @@ params:
       url: "https://www.tiktok.com/@cobusuys"
     - name: youtube
       url: "https://www.youtube.com/channel/UCC6fGWswEHPBjfnH_n0dnFQ"
+    - name: twitter
+      url: https://twitter.com/cobusuys_
 
   analytics:
     google:
