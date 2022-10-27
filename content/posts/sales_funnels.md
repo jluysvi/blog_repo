@@ -1,5 +1,5 @@
 ---
-title: "Why Your Business NEEDS a Sales Funnel"
+title: "Why Your Business Needs a Sales Funnel"
 date: 2022-10-26T19:16:45+02:00
 # weight: 1
 # aliases: ["/first"]
@@ -70,24 +70,24 @@ The last step in the funnel is when all the hard work finally pays off. You have
 
 ![a typical sales funnel](/images/sales_funnel.png "https://www.vecteezy.com/free-vector/sales-funnel")
 
-## Why would you use a sales funnel?
+## Why Use a Sales Funnel
 
 The short answer is that it’s a much more efficient way to get and retain clients in the long run. For the longer answer, let’s do a comparison between the “normal” way to acquire new customers and how it compares to a sales funnel. 
 
 
-### The “normal” way of doing things
+### The “Normal” Why of Doing Things
 
 With the traditional advertising approach you basically have one chance to win over you customer. I’m exaggerating a bit here because they will likely see your ad more than once but every time they see the ad, all they see is that you’re trying to sell them something and they will likely decide whether they are interested or not within a split second and after that their brain will just blank out your ad as they scroll past. 
 
 At this point you haven’t even gotten the chance to tell them how great your product is or what it can do for them and because the marketing tactic is flawed(you tried to pitch too soon), you might lose your customer then and there. 
 
 
-### Take a shot every time you read sales funnel
+### The Sales Funnel Method
 
 What if, instead of trying to pitch immediately, you actually **show** your clients that your offer will solve every problem they have instead of **telling** them that it will. How do you even do this? Give them something incredibly valuable, for free. I know this might sound a bit scary, I mean, what if the info you give them is all they need and they never come back? First of all, that is highly unlikely. What will probably happen, is that they will read your free PDF or watch your webinar and see that you know what you’re talking about. If they implement some of your strategies and they actually work, then that’s even better. Now you’ve given them value and you’ve shown them that you know your story. Think about this from your own perspective. If a stranger came up to you and wanted to sell you a $100 course, you would likely just shoo him away.On the other hand. If someone solved a problem that has been bugging you for a long time and did it for free, offered to sell you a course that would solve more of your problems, would you not be much more likely to buy it?
 
 
-## How to implement a sales funnel
+## How to Implement a Sales Funnel
 
 Just so you know, none of the links in this page are sponsored(though I wouldn’t protest against it😉), they're just the best resources I could find on the web. 
 
@@ -97,7 +97,7 @@ Just so you know, none of the links in this page are sponsored(though I wouldn�
 The big daddy of online sales funnels. Expensive as all hell, a little bit tacky looking from the outside but probably the single best all in one tool for creating sales funnels you can get. They basically have every tool you could ever need to build a sales funnel, built into one thing and they have fantastic learning resources included as well. 
 
 
-### The custom route
+### The Custom Route
 
 If you don’t want to pay a minimum of $150 per month for a service, I don’t blame you. You can stitch together your own sales funnel with some of the tools below. 
 

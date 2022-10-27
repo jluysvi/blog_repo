@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<form class="signupform" name="contact" method="POST" data-netlify="true">
+    <p>
+      <label class="signuplabel">Your Email: <input class="signupinput" type="email" name="email" /></label>
+    </p>
+    <p>
+      <button class="signupbutton" type="submit">Send</button>
+    </p>
+</form>
+
+{{ end }}

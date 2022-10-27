@@ -1,0 +1,9 @@
+.signupform {
+    border: 1px solid gray;
+    max-width: 30rem;
+    margin-top: 2rem;
+}
+.signuplabel {
+    padding-left: 1rem;
+    padding-top: 2rem;
+}

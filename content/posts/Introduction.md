@@ -38,15 +38,15 @@ editPost:
 ## Who am I?
 Hi, my name is Cobus Uys, pleased to meet you. I'm a young entrepreneur from Bloemfontein, South Africa with a passion for learning and improving every aspect of my life. This blog is here to serve as a reference for everything that I have learned and to document my journey as I attempt to become successful. It might seem strange to share all the secrets that I uncover, but I was so frustrated with having to dig through mountains of bullshit to get to the good stuff and I want to spare some other people that pain.
 ## Why a blog?
-### A reference for myself
+### As a Reference for Myself
 As I alluded to on the front page, this blog is mainly to serve as a reference for me and to help other people, but I will admit that it's not all altruistic. A while ago I realised that I still have a ton to learn if I truly want to provide value to my clients and if I wanted to stand out above the competition in my market.
-### Monetization and branding
+### Monetization and Branding
 I was thinking about this for a while when a lightbulb went on and I thought, "If I'm gonna spend a year learning, I might as well make some money from it." As this blog grows I hope to monetize it so I can get a small stream of income which I will use to develop my business.
 
 This blog won't just be written in isolation. I will be making content on other platforms like TikTok and Youtube. I also want to start a podcast not too long from now. The reason for the elaborate scheme is that I want to build my personal brand and in the process I want to learn skills like marketing, advertising and networking. 
 ### Portfolio
 The last reason is that I really love to write and I want to refine and practice my writing so this website can serve as a portfolio that I can use to get some work as a freelance writer. Every cent I get will basically go to developing my business. 
-## Plans for the blog
+## Plans for the Blog
 ### Content
 You may be wondering which topics will be covered in the blog. Below is a short and non-exhaustive list of the topics that I hope to write about. This list will likely be updated in the future.
 #### Branding
@@ -66,11 +66,11 @@ Because I will be writing about a large amount of topics, the style and tone of 
 Although I am someone that swore off emojis for a long time, I have come to see them as a very useful tool for communication and I think they are a great way to set a more informal tone. 
 
 I think the length of the articles will differ a lot depending on the topic and style of the article. I will always try to be as brief as possible without skimping on any of the details. 
-### Growing my audience
+### Growing my Audience
 The main way I plan to grow my audience is simply high quality content. I want to provide as much value I can to my readers and not too long from now, my clients. Another way I plan to grow is by crossposting and linking my content between my different social media channels. I won't be posting much content on LinkedIn, but I will link everything I create on my other platforms on there.
 
 I plan to cover similar topics on my TikTok that I cover on the blog so I can drive traffic to the blog from there. Lastly, I plan to start a podcast. I want to interview some experts in the fields that I am covering at that time and use that to make content on my other platforms. I'm not sure if this is actually a good strategy but I'll find out soon enough if it's working or not.
-## Closing thoughts
+## Closing Thoughts
 One last reason for the blog is to keep myself accountable. I think it's going to give me something concrete to work towards every day, besides being a great reference. I'm going to look into adding comments to the site once it starts to get enough traffic, but until then you can just send me a message on social media. I'm really excited for this next chapter.
 
 Goodbye, see you in the next post.👋
