@@ -45,7 +45,7 @@ If you’ve ever been frustrated because your products and services are not sell
 
 The idea of a sales funnel is to gradually “warm up” your potential customers over a period of time by offering them value over a longer time span instead of trying to jump directly into your sales pitch. The “classic” sales funnel was thought up way back in 1898 by E St Elmo Lewis and the core principles are just as relevant and effective today, though there _have_ been some modern iterations of sales funnels by pioneers like Richard Branson, which we’ll discuss a bit later. 
 
-The classic sales four consists of four distinct steps: Awareness, Interest, Desire and Action or AIDA for short. Let’s explore each step a little further.
+The classic sales funnel consists of four distinct steps: Awareness, Interest, Desire and Action, or AIDA for short. Let’s explore each step a little further.
 
 
 
