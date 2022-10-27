@@ -39,7 +39,7 @@ editPost:
 Hi, my name is Cobus Uys, pleased to meet you. I'm a young entrepreneur from Bloemfontein, South Africa with a passion for learning and improving every aspect of my life. This blog is here to serve as a reference for everything that I have learned and to document my journey as I attempt to become successful. It might seem strange to share all the secrets that I uncover, but I was so frustrated with having to dig through mountains of bullshit to get to the good stuff and I want to spare some other people that pain.
 ## Why a blog?
 ### A reference for myself
-As I alluded to in the introduction, this blog is mainly to serve as a reference for me and to help other people, but I will admit that it's not all altruistic. A while ago I realised that I still have a ton to learn if I truly want to provide value to my clients and if I wanted to stand out above the competition in my market.
+As I alluded to on the front page, this blog is mainly to serve as a reference for me and to help other people, but I will admit that it's not all altruistic. A while ago I realised that I still have a ton to learn if I truly want to provide value to my clients and if I wanted to stand out above the competition in my market.
 ### Monetization and branding
 I was thinking about this for a while when a lightbulb went on and I thought, "If I'm gonna spend a year learning, I might as well make some money from it." As this blog grows I hope to monetize it so I can get a small stream of income which I will use to develop my business.
 
