@@ -35,6 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+This article is coninuation of the [sales funnel](https://cobusuys.com/posts/sales_funnels/) article, I wanted to explore landing pages in more depth and I will probably write articles about every other step of the sales funnel as well.
+
 A landing page is the very first step of your sales funnel and it could very well make or break the success of your marketing campaign, that’s why it's so important to understand what makes a landing page successful. 
 
 In this article we’ll explore how to create a landing page with very high conversion rates but I won’t be mentioning any specific tools because I believe that once you understand the underlying principles, you can use any tools you want to create a great landing page.
