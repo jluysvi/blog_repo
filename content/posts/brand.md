@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Double Down on Branding 2023"
+title: "Why You Should Double Down on Branding In 2023"
 date: 2022-10-30T10:24:29+02:00
 # weight: 1
 # aliases: ["/first"]
