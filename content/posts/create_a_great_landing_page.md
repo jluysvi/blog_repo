@@ -137,4 +137,4 @@ Lastly, you should do rigorous testing after you have launched the page. You mig
 
 ### Split Testing
 
-The simplest and most effective way to test the effectiveness of an element is to do split testing. This is when you run two versions of a page simultaneously. Half of your ad traffic gets driven to one page and half to the other. It’s very important that you change only one or two variables between those pages at one time, so you can find out exactly what works and what doesn’t. 
+The simplest and most effective way to test the effectiveness of an element is to do split testing. This is when you run two versions of a page simultaneously. Half of your ad traffic gets driven to one page and half to the other. It’s very important that you change only one or two variables between those pages at one time, so you can find out exactly what works and what doesn’t.
