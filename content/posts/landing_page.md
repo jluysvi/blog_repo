@@ -1,5 +1,5 @@
 ---
-title: "How To Create a Great Landing Page That Converts Like Crazy"
+title: "How To Create a Landing Page That Converts Like Crazy"
 date: 2022-10-28T13:43:34+02:00
 # weight: 1
 # aliases: ["/first"]
