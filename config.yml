@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Welcome to my blog!
-    subtitle: "I'm learning how to run a business and how to do effective marketing, so I thought I might as as well document the process."
+    title: Cobus Uys' Blog
+    subtitle: "I go digging for the best information you can use to create a successful business, so you don't have to."
     imageUrl: "images/pfp_bg.png"
     imageWidth: 120
     imageHeight: 120
