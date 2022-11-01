@@ -37,7 +37,7 @@ editPost:
 ---
 I’ve been meaning to redo all the copy on my business website for a while now. I have learned a ton since I’ve put it up and honestly, looking at it now makes me feel a bit disappointed at just how terrible it is. Firstly, the headlines are horribly generic. If anyone came to my site and they weren’t already sure about using my services, I would probably lose them. The body copy is nothing to write home about either, it’s all about me and not about them. That’s terrible if you want to sell something. The only redeeming feature is that the site looks pretty nice, but that doesn’t mean anything if it doesn’t make people want to use my services. 
 
-I’m going on a mission to fix up my site before I start running my next Facebook Ad Campaign and in this article I’m going to explain every step I’ll take to make it better and explain why every step is so important. I’m going to be using principles that I’ve learned from some of the best copywriters in the world and I’ll link some of the books that helped me at the end of the article. 
+I’m going on a mission to fix up my site before I start running my next Facebook Ad Campaign and in this article I’m going to explain every step I’ll take to make it better and explain why every step is so important. I’m going to be using principles that I’ve learned from some of the best copywriters in the world and I’ll link some of the books that helped me at the end of the article.
 
 
 ## 1. Fixing the Headlines
@@ -57,7 +57,13 @@ State your value proposition as early as possible. If you can do it in the headl
 
 ### Make Them Read On
 
-Many of the greatest copywriters in the world argued that the only reason for the headline is to get the reader to go onto the next line and then the next and the next and so on. 
+Many of the greatest copywriters in the world argued that the only reason for the headline is to get the reader to go onto the next line and then the next and the next and so on. Make sure your headline creates a bit of intrigue or makes the reader ask a question that would want the answer to. 
+
+### Example
+
+I always like using Clickfunnels as an example. You just can't go wrong if you study these guys carefully. 
+
+![Clickfunnels Home Page](/images/clickfunnelspage.png)
 
 
 ### Style and Typography
@@ -81,6 +87,12 @@ The colour of the CTA should be similar to the rest of the colour theme on the w
 ### Make the Action Clear
 
 Make it very clear what the reader is signing up for, exactly. If you want them to buy something directly, state the price and maybe even the guarantee so they know what they are in for. If the button signs them up for a newsletter, make sure they know if it’s monthly or weekly. You get the idea.
+
+### Example
+
+Shopify managed to squeeze in their call to action no less than three times without looking too overbearing.
+
+![Shopify Home Page](/images/shopify.png)
 
 
 ## 3. Visuals
@@ -133,6 +145,9 @@ Make sure your expertise on the products shines through. It’s okay to use some
 
 If you have any testimonials, make sure to include them. Include a picture of the person so there is a real face connected to the quote. Video is even better, but if it sounds too scripted you might lose trust. Show where your work has been featured if you have ever done work for larger brands or corporations. 
 
+Another one from Clickfunnels...
+
+![Clickfunnels Social Proof](/images/clickfunnelssocialproof.png)
 
 ### Be Honest
 
